@@ -9,4 +9,5 @@ let scores = [];
 
 module.exports.scores = scores;
 
+
 module.exports.places = places;
