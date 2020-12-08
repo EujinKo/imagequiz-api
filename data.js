@@ -5,10 +5,7 @@ let places = [{name: 'a',city:'Tucson',state:'Arizona',reviews:[{text:"very good
 
 
 
-    
 let scores = [];
 
 module.exports.scores = scores;
-
-
 module.exports.places = places;
